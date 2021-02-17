@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cap-Tracker/static/css/main.d2f05936.chunk.css",
-    "main.js": "/Cap-Tracker/static/js/main.dfa33eab.chunk.js",
-    "main.js.map": "/Cap-Tracker/static/js/main.dfa33eab.chunk.js.map",
+    "main.js": "/Cap-Tracker/static/js/main.1633f61f.chunk.js",
+    "main.js.map": "/Cap-Tracker/static/js/main.1633f61f.chunk.js.map",
     "runtime-main.js": "/Cap-Tracker/static/js/runtime-main.abbf5ddf.js",
     "runtime-main.js.map": "/Cap-Tracker/static/js/runtime-main.abbf5ddf.js.map",
     "static/css/2.150d169a.chunk.css": "/Cap-Tracker/static/css/2.150d169a.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.aece7342.chunk.js",
     "static/css/main.d2f05936.chunk.css",
-    "static/js/main.dfa33eab.chunk.js"
+    "static/js/main.1633f61f.chunk.js"
   ]
 }
