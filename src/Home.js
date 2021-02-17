@@ -22,7 +22,7 @@ const Home = () => (
               <p>Traccia comodamente i prezzi dell'alluminio e del rame da casa!</p>
             </div>
             <Link to='/aluminium'>
-              <button class='btn bg-light border-0' disabled>Alluminio</button>
+              <button class='btn bg-light border-0 text-center my-4'>Pagina alluminio</button>
             </Link>
           </FadeIn>
         </div>
