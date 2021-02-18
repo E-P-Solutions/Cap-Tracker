@@ -39,7 +39,7 @@ const options = {
 }
 
 const VerticalBar = () => (
-  <div class='m-4'>
+  <div>
     <div className='header'>
     </div>
     <Bar data={data} options={options} />
